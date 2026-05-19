@@ -355,7 +355,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <h2 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    👉 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
+    👉 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
   </a>
 </h2>
 
@@ -488,20 +488,9 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   </a>
 </h3>
 
-<br>
 
 
-<div align="center">
 
-📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 📍 𝗦𝗢𝗙𝗜𝗔
-  </span>
-  <span style="display:block; font-size:2.5em;">
-  </span> <span style="display:block; font-size:2.5em;"> ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠 </span>
-<span style="display:block; font-size:2.5em;">🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> 🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> <a href="https://github.com/Dreamerol/GITHUB-STATS">
-    <b>👉 𝗔𝗟𝗟 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b>
-  </span>
-
-</div>
 
 
 
