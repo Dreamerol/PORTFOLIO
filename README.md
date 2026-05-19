@@ -15,7 +15,7 @@
 <br>
 
 
-<div align="center">✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠 🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> 🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a>  ✅ <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a> 🧩 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">𝗠𝗬 𝗥𝗘𝗣𝗢𝗦</a> <a href="https://github.com/Dreamerol/GITHUB-STATS"><b>👉 𝗔𝗟𝗟 𝗦𝗧𝗔𝗧𝗦</b></a></div>
+<div align="center">✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠 🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> 🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a>  ✅ <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a> 🧩 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">𝗠𝗬 𝗥𝗘𝗣𝗢𝗦</a> 👉 <a href="https://github.com/Dreamerol/GITHUB-STATS"><b>𝗔𝗟𝗟 𝗦𝗧𝗔𝗧𝗦</b></a></div>
 
 
 ---
