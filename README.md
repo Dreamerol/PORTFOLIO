@@ -349,19 +349,16 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
-
+</div>
 
 <br>
 
 <h2 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    👉 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
+    👉 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
   </a>
 </h2>
 
-<h2 align="center" style="font-size:18px; font-weight:normal; letter-spacing:1px;">
-𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
-</h2>
 
 <br>
 
@@ -385,7 +382,7 @@ Currently studying at <strong>FMI</strong>, focusing on Data Analysis, Machine L
 Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </h2>
 
-
+</div>
 
 <br>
 
