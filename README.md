@@ -304,16 +304,13 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 ---
   
-<h3 align="center">
-  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>✨ Click any badge to view project</em></strong>
-  </a>
-</h3>
-
-</div>
+<h2 align="center"> 
+ <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
+  <em>✨ Click any badge to view project</em></h3>
+    </a>
+</h2>
 
 <br>
-
 
 <p align="center">
 
@@ -339,6 +336,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
   <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
+</a>
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
