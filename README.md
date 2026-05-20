@@ -183,11 +183,11 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-<h2 align="center" style="font-size:2em; font-weight:700;">
+<h1 align="center" style="font-size:2.1em;">
 👉 <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
 </a>
-</h2>
+</h1>
 
 # 👉 <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
