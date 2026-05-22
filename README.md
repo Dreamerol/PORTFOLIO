@@ -57,9 +57,21 @@
 ---
 
 
-Data & Software Engineer | FMI
-Building ML systems, data pipelines & backend tools
-Focus: Python • SQL • Machine Learning • System Design
+<div align="center">
+
+<h1 style="font-size:38px; line-height:1.2;">
+𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗙𝗠𝗜
+</h1>
+
+<h2 style="font-size:26px; font-weight:500; line-height:1.4;">
+𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗠𝗟 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, 𝗱𝗮𝘁𝗮 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 & 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝘀𝘆𝘀𝘁𝗲𝗺𝘀
+</h2>
+
+<h3 style="font-size:22px; font-weight:400; opacity:0.9;">
+𝗙𝗼𝗰𝘂𝘀: 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 • 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻
+</h3>
+
+</div>
 
 
 <br>
