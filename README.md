@@ -2,6 +2,46 @@
 
 <div align="center">
 
+<h1 style="font-size:42px; line-height:1.2;">
+𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝟮𝟬𝟮𝟲 — 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
+</h1>
+
+<br>
+
+<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">
+  <img 
+    src="https://github.com/Dreamerol/Dreamerol/blob/e052c47f57171d3bc569d8bba71f7b773d691e5d/ZOOP222%20(1).png"
+    width="100%"
+    style="border-radius:18px;" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center" style="white-space:nowrap;">
+
+<span style="font-size:1.25em; line-height:1.6;">
+
+✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠 •  
+🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> •  
+🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> •  
+✅ <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a> •  
+🧩 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">𝗥𝗘𝗣𝗢𝗦</a> •  
+👉 <a href="https://github.com/Dreamerol/GITHUB-STATS"><b>𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦</b></a>
+
+</span>
+
+</div>
+
+
+
+---
+
+
+
+<div align="center">
+
 <h2>𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝟮𝟬𝟮𝟲 — 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜</h2>
 
 <br>
