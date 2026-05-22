@@ -56,6 +56,12 @@
 
 ---
 
+
+Data & Software Engineer | FMI
+Building ML systems, data pipelines & backend tools
+Focus: Python • SQL • Machine Learning • System Design
+
+
 <br>
 
 <div align="center">
