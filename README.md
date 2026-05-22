@@ -13,7 +13,7 @@
     style="border-radius:18px;" />
 </a>
 
-<br><br>
+<br>
 
 <div align="center" style="white-space:nowrap;">
 
