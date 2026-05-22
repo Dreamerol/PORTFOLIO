@@ -89,7 +89,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 
 <div align="center">
@@ -242,7 +242,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
 
-<br><br>
+<br>
 
 
 
