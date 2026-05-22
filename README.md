@@ -237,7 +237,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 <br>
 
 
-<br>
+
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 
