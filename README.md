@@ -54,11 +54,11 @@
 
 ---
 
-<br>
+<br><br>
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a> 
+# <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a> 
 
 </div>
 
@@ -168,7 +168,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🟢 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦 𝟮𝟬𝟮𝟲</a> 
+# <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🟢 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦 𝟮𝟬𝟮𝟲</a> 
 
 <div align="center">
 
