@@ -273,6 +273,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
+
+
 <p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
@@ -295,12 +297,12 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
   <img height="65" src="https://img.shields.io/badge/Algorithms-00C853?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+  <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-6B7280?style=for-the-badge&logo=atom&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
-  <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
@@ -312,7 +314,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </a>
 
 <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-  <img height="65" src="https://img.shields.io/badge/Book%20Catalog%20Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/Book%20Catalog%20Django-6B7280?style=for-the-badge&logo=django&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
@@ -354,6 +356,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </p>
 
 </div>
+
+
 
 <hr>
 
