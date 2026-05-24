@@ -65,13 +65,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
-
-<h2 align="center">
-  <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
-    𝗙𝗠𝗜 • 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶
-  </a>
-</h2>
+## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
 ## Python • SQL • Data Analysis • Machine Learning
 
@@ -202,6 +196,13 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <h2 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
     🟢 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗜𝘀 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥
+  </a>
+</h2>
+
+
+<h2 align="center">
+  <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
+    𝗙𝗠𝗜 • 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶
   </a>
 </h2>
 
