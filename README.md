@@ -207,11 +207,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </h2>
 
 
-<h2 align="center">
-𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗣𝗜 Integrations • Databases
-</h2>
-
-
 
 </div>
 
