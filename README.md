@@ -195,13 +195,13 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <h2 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥
+    🟢 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗜𝘀 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥
   </a>
 </h2>
 
 
 <h2 align="center">
-𝗗𝗮𝘁𝗮 • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗣𝗜𝘀
+𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗣𝗜 Integrations • Databases
 </h2>
 
 <h2 align="center">
