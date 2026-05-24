@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1 style="font-size:42px; line-height:1.2;">
-𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝟮𝟬𝟮𝟲
+𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝟮𝟬𝟮𝟲
 </h1>
 
 <br>
