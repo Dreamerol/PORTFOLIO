@@ -221,13 +221,13 @@ Build systems where data becomes structure, and structure becomes insight.
 
 <br>
 
-<h2 align="center" style="font-size:24px; line-height:1.7;">
-Building thoughtful software systems where data, logic, and creativity come together.
+
+<h2 align="center" style="font-size:24px; line-height:1.6;">
+Software Engineering student at <strong>FMI</strong> focused on backend development, machine learning, and scalable data-driven applications using <strong>Python, SQL, Java, and Clojure</strong>.
 </h2>
 
-<h3 align="center" style="font-size:18px; line-height:1.9; font-weight:normal;">
-Software Engineering student at <strong>FMI</strong> focused on backend development, machine learning, and scalable data-driven applications using <strong>Python, SQL, Java, and Clojure</strong>.
-</h3>
+
+
 
 <br>
 
@@ -235,7 +235,7 @@ Software Engineering student at <strong>FMI</strong> focused on backend developm
 Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 </h2>
 
-<br>
+
 
 <br>
 
