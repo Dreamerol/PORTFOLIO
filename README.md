@@ -228,7 +228,7 @@ Software Engineering student at <strong>FMI</strong> working with <strong>Python
 
 
 <h2 align="center" style="font-size:18px; font-weight:normal;">
-Interests: <strong>Data Analysis • Applied Machine Learning • System Design</strong>
+Interests: <strong>Data Analysis • Applied ML • System Design</strong>
 </h2>
 
 
