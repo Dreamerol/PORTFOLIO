@@ -80,9 +80,11 @@ Building scalable backend systems, data-driven applications, and ML pipelines.
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>   
+# <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 Software Engineer • Backend & Data Systems</a>   
 
-## PYTHON • SQL • BACKEND SYSTEMS • MACHINE LEARNING
+## Python • Java • SQL • System Design • Machine Learning
+
+## Building scalable backend systems, data-driven applications, and ML pipelines.
 
 ## ∫ data → systems ✨
 
