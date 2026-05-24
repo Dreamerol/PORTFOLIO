@@ -61,12 +61,11 @@
 ---
 
 
-<br>
 
 <div align="center">
 
 <h2>
-  <b>DATA & SOFTWARE ENGINEER | DATA ANALYSIS & BACKEND</b>
+  𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦 & 𝗕𝗔𝗖𝗞𝗘𝗡𝗗
 </h2>
 
 </div>
