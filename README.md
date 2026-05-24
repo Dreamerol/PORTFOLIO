@@ -211,7 +211,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </div>
 
 
-<br>
+
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
 Turning data, logic, and code into scalable systems.
