@@ -240,6 +240,8 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <br>
 
+
+
 <div align="center">
 
 ## <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🟢 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗥𝗘𝗣𝗢𝗦</a> 
@@ -248,7 +250,7 @@ Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
 
 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
 
-<br>
+<br><br>
 
 
 
