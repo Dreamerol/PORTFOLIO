@@ -65,7 +65,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
+## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
 ## C++ • PYTHON • SQL • BACKEND SYSTEMS • MACHINE LEARNING
 
