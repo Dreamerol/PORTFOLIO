@@ -222,13 +222,13 @@ Build systems where data becomes structure, and structure becomes insight.
 
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
-Software Engineering student at <strong>FMI</strong> working with <strong>Python, SQL, Java, and Clojure</strong> to create backend systems, APIs, and machine learning projects.</strong>.
+Software Engineering student at <strong>FMI</strong> working with <strong>Python, SQL, Java, and Clojure</strong> to create backend systems, APIs, and machine learning projects.</strong>
 </h2>
 
 
 
 <h2 align="center" style="font-size:18px; font-weight:normal;">
-Interests: <strong>Data Analysis • Machine Learning • System Design</strong>
+Interests: <strong>Data Analysis • Applied ML • System Design</strong>
 </h2>
 
 
