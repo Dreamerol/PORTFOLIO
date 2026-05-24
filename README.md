@@ -62,11 +62,26 @@
 
 
 
+
 <div align="center">
 
-<h2>
-  𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦 & 𝗕𝗔𝗖𝗞𝗘𝗡𝗗
+<h2 align="center">
+  <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
+    🟢 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 | 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦 & 𝗕𝗔𝗖𝗞𝗘𝗡𝗗
+  </a>
 </h2>
+
+
+<h2 align="center">
+𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 • 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
+</h2>
+
+<h2 align="center">
+  <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
+    𝗙𝗠𝗜 — 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”
+  </a>
+</h2>
+
 
 </div>
 
