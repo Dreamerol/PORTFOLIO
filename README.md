@@ -199,32 +199,27 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
   </a>
 </h2>
 
-
 <h2 align="center">
   <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
     𝗙𝗠𝗜 • 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 "𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶"
   </a>
 </h2>
 
-
 </div>
 
-
 <br>
-
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
 Turning data, logic, and code into scalable systems.
 </h2>
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
-Software Engineering student at FMI focused on backend development, APIs, and data-driven applications, building with Python, SQL, Java, and Clojure.</strong>
+Software Engineering student at FMI focused on backend development, APIs, and data-driven applications, building with Python, SQL, Java, and Clojure.
 </h2>
 
 <h2 align="center" style="font-size:18px; font-weight:normal;">
 Interests: <strong>Data Analysis • Applied ML • System Design</strong>
 </h2>
-
 
 <br>
 
