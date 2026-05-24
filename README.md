@@ -67,7 +67,7 @@
 
 <h2 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 | 𝗗𝗔𝗧𝗔 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗
+    🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 | 𝗗𝗔𝗧𝗔 • 𝗠𝗟 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗
   </a>
 </h2>
 
