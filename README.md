@@ -60,22 +60,6 @@
 
 ---
 
-<h1 align="center">Software Engineer • Backend & Data Systems</h1>
-
-## <p align="center">
-Python • Java • SQL • System Design • Machine Learning
-</p>
-
-## <p align="center">
-Building scalable backend systems, data-driven applications, and ML pipelines.
-</p>
-
-
-
-
----
-
-
 <br>
 
 <div align="center">
@@ -84,7 +68,7 @@ Building scalable backend systems, data-driven applications, and ML pipelines.
 
 ## Python • Java • SQL • System Design • Machine Learning
 
-## Building scalable backend systems, data-driven applications, and ML pipelines.
+## Building scalable backend systems, data-driven applications, and ML pipelines
 
 ## ∫ data → systems ✨
 
