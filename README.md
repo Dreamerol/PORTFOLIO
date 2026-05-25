@@ -216,20 +216,20 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<h2 align="center" style="font-size:24px; line-height:1.6;">
+<h1 align="center" style="font-size:24px; line-height:1.6;">
 From data to systems. Software Engineering student at FMI focused on backend systems, APIs, and data-driven applications using Python, SQL, Java, C++ and Clojure.
-</h2>
+</h1>
 
-<h2 align="center" style="font-size:18px; font-weight:normal;">
+<h1 align="center" style="font-size:18px; font-weight:normal;">
 Interests: <strong>Data Analysis • Applied ML • System Design</strong>
-</h2>
+</h1>
 
 <br>
 
 
 <div align="center">
 
-## 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🟢 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦</a> 
+# 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🟢 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦</a> 
 
 <div align="center">
 
