@@ -68,7 +68,7 @@
 
 # Python • Java • SQL • System Design • Machine Learning
 
-# Building backend systems, data-driven applications & ML pipelines
+## Building backend systems, data-driven applications & ML pipelines
 
 </div>
 
