@@ -58,9 +58,9 @@
 
 </p>
 
----
 
-<br>
+
+<br><br>
 
 <div align="center">
 
@@ -71,6 +71,7 @@
 ## Building backend systems, data-driven applications & ML pipelines
 
 </div>
+
 
 
 <br>
