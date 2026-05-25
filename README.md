@@ -194,21 +194,21 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-<h1 align="center">
+<h2 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
       𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
   </a>
-</h1>
+</h2>
 
-<h1 align="center">
+<h2 align="center">
   <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
     FMI, Sofia University “St. Kliment Ohridski”
   </a>
-</h1>
+</h2>
 
-<h1 align="center">
+<h2 align="center">
   ∫ data → systems ✨
-</h1>
+</h2>
 
 </div>
 
