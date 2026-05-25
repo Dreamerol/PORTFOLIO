@@ -86,9 +86,9 @@ FMI, Sofia University “St. Kliment Ohridski”
 Open to Backend • Data • ML opportunities
 </h1>
 
-<h2>
+<h1>
 ∫ data → systems ✨
-</h2>
+</h1>
 
 </div>
 
