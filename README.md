@@ -240,26 +240,6 @@ Open to Backend • Data • ML opportunities
 
 
 
-
-<div align="center" style="max-width:800px; margin:auto; text-align:center;">
-
-<h2>
-Interested in how systems emerge from simplicity — where structure, logic, and constraints turn abstract problems into working systems.
-
-<hr>
-
-Outside of coding, there is a focus on calm consistency, disciplined execution, and continuous improvement. The path is Software Engineering, with focus on systems, algorithms, and machine learning. 
-
-<hr>
-
-Open to Backend • Data • ML opportunities
-
-</h2>
-
-</div>
-
-
-
 <br>
 
 
