@@ -69,7 +69,9 @@
 <br><br>
 
 
-
+SWE • DATA SYSTEMS • BACKEND • APPLIED ML  
+Python • Java • SQL • System Design • Machine Learning  
+∫ data → systems ✨  
 
 
 <div align="center">
