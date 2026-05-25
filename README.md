@@ -69,10 +69,6 @@
 <br><br>
 
 
-SWE • DATA SYSTEMS • BACKEND • APPLIED ML  
-Python • Java • SQL • System Design • Machine Learning  
-∫ data → systems ✨  
-
 
 <div align="center">
 
@@ -95,6 +91,7 @@ Python • Java • SQL • System Design • Machine Learning
 
 <br>
 
+
 <h1>
   
 ⚙️ CORE FOCUS
@@ -107,7 +104,6 @@ Python • Java • SQL • System Design • Machine Learning
 
 
 </div>
-
 
 
 
