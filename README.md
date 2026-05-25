@@ -64,11 +64,19 @@
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>   
+# <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>  
+
+<h1 align="center">
+  <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
+    FMI, Sofia University “St. Kliment Ohridski”
+  </a>
+</h1>
 
 # Python • Java • SQL • System Design • Machine Learning
 
-## Building backend systems, data-driven applications & ML pipelines
+<h1 align="center">
+  ∫ data → systems ✨
+</h1>
 
 </div>
 
@@ -190,29 +198,11 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br>
 
 
-<div align="center">
-
-<h1 align="center">
-  <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-      𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
-  </a>
-</h1>
-
-<h1 align="center">
-  <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
-    FMI, Sofia University “St. Kliment Ohridski”
-  </a>
-</h1>
-
-<h1 align="center">
-  ∫ data → systems ✨
-</h1>
 
 
-</div>
+
 
 
 <br>
