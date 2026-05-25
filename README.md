@@ -8,7 +8,7 @@
 
 
   <h2 align="center">
-  Backend systems • Data pipelines • Applied machine learning for scalable applications
+  Backend systems • Data pipelines • Applied ML for scalable applications
 </h2>
 
 
