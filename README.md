@@ -72,11 +72,11 @@
 </h2>
 
 <h2>
-FMI, Sofia University “St. Kliment Ohridski”
+Python • Java • SQL • System Design • Machine Learning
 </h2>
 
 <h2>
-Python • Java • SQL • System Design • Machine Learning
+FMI, Sofia University “St. Kliment Ohridski”
 </h2>
 
 <h2>
