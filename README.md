@@ -96,11 +96,13 @@ Python • Java • SQL • System Design • Machine Learning
 <h1>
   
 CORE FOCUS
+<h1>
 
+<h2>
  
-20+ Backend/Data projects • ML Pipelines & Simulations • SQL + System Design Experience • Scalable Architectures
+15+ Backend/Data projects • ML Pipelines & Simulations • SQL + System Design Experience • Scalable Architectures
 
-</h1>
+</h2>
 
 
 </div>
