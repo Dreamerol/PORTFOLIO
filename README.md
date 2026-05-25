@@ -87,7 +87,19 @@ Python • Java • SQL • System Design • Machine Learning
 ∫ data → systems ✨
 </h1>
 
+<br>
 
+<h1>
+  
+⚙️ CORE FOCUS
+
+ 
+15+ Backend/Data projects • ML Pipelines & Simulations • SQL + System Design • Scalable Architecture
+
+</h1>
+
+
+</div>
 
 
 <br>
@@ -203,22 +215,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </table>
 
 </div>
-
-
-
-<h1>
-  
-⚙️ CORE FOCUS
-
-<br>
- 
-15+ Backend/Data projects • ML Pipelines & Simulations • SQL + System Design • Scalable Architecture
-
-</h1>
-
-
-</div>
-
 
 
 
