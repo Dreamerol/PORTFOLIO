@@ -10,6 +10,10 @@
   Backend systems, data pipelines and applied machine learning
 </h2>
 
+<h3 align="center">
+Building scalable backend systems and data-driven applications with applied ML
+</h3>
+
 <br>
 
 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">
