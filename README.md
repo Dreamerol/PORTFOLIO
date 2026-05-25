@@ -215,13 +215,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <br>
 
 
-
 <h1 align="center" style="font-size:24px; line-height:1.6;">
-From data to systems. Software Engineering student at FMI focused on backend systems, APIs, and data-driven applications using Python, SQL, Java, C++ and Clojure.
-</h1>
-
-<h1 align="center" style="font-size:18px; font-weight:normal;">
-Interests: <strong>Data Analysis • Applied ML • System Design</strong>
+Software Engineering student at FMI focused on backend systems, APIs, and data-driven applications using Python, SQL, Java, C++ and Clojure.
 </h1>
 
 <br>
