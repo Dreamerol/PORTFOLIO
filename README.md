@@ -200,13 +200,13 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
   </a>
 </h1>
 
-## ∫ data → systems ✨
-
 <h2 align="center">
   <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
      FMI, Sofia University “St. Kliment Ohridski”
   </a>
 </h2>
+
+## ∫ data → systems ✨
 
 
 </div>
