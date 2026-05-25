@@ -217,18 +217,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <br>
 
 
-<div align="center" style="max-width:800px; margin:auto; text-align:center;">
-  
-
-<h2 style="margin-bottom:12px;">
-Software Engineering focus on backend systems, APIs, databases, and applied machine learning using Python, SQL, Java, C++ and Clojure. Open to Backend • Data • ML opportunities
-</h2>
-
-
-</div>
-
-
-
 
 <br>
 
