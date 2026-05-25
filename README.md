@@ -64,7 +64,7 @@
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 Software Engineer • Backend & Data Systems</a>   
+# <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>   
 
 # Python • Java • SQL • System Design • Machine Learning
 
