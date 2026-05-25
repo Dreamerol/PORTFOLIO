@@ -64,11 +64,11 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>   
+# <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>   
 
-## Python • Java • SQL • System Design • Machine Learning
+# Python • Java • SQL • System Design • Machine Learning
 
-## Building backend systems, data-driven applications & ML pipelines
+# Building backend systems, data-driven applications & ML pipelines
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a>
+# <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a>
 
 </div>
 
@@ -194,32 +194,30 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-<h2 align="center">
+<h1 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
       𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
   </a>
-</h2>
+</h1>
 
-<h2 align="center">
+<h1 align="center">
   <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
     FMI, Sofia University “St. Kliment Ohridski”
   </a>
-</h2>
+</h1>
 
-<h2 align="center">
+<h1 align="center">
   ∫ data → systems ✨
-</h2>
+</h1>
 
 </div>
 
 <br>
 
-<h2 align="center" style="font-size:18px; font-weight:normal;">
-From data to systems.</strong>
-</h2>
+
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
-Software Engineering student at FMI focused on backend systems, APIs, and data-driven applications using Python, SQL, Java, C++ and Clojure.
+From data to systems. Software Engineering student at FMI focused on backend systems, APIs, and data-driven applications using Python, SQL, Java, C++ and Clojure.
 </h2>
 
 <h2 align="center" style="font-size:18px; font-weight:normal;">
