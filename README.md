@@ -89,7 +89,6 @@ Python • Java • SQL • System Design • Machine Learning
 ∫ data → systems ✨
 </h1>
 
-</div>
 
 
 <br>
