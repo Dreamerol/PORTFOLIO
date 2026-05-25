@@ -78,13 +78,6 @@ Software Engineer • Backend • Data Systems • Applied ML
 Python • Java • SQL • System Design • Machine Learning
 </h1>
 
-<h1>
-FMI, Sofia University “St. Kliment Ohridski”
-</h1>
-
-<h1>
-Open to Backend • Data • ML opportunities
-</h1>
 
 <h1>
 ∫ data → systems ✨
