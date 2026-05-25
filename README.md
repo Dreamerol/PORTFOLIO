@@ -219,7 +219,7 @@ From data to systems.</strong>
 </h2>
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
-Software Engineering student at FMI focused on backend development, APIs, and data-driven applications, building with Python, SQL, Java, and Clojure.
+Software Engineering student at FMI focused on backend systems, APIs, and data-driven applications using Python, SQL, Java, C++ and Clojure.
 </h2>
 
 <h2 align="center" style="font-size:18px; font-weight:normal;">
