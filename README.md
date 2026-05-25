@@ -196,18 +196,19 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <h1 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    🟢 Data & Software Engineer
+    🟢 Data Analyst • Software Engineer
   </a>
 </h1>
 
 <h2 align="center">
   <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
-     FMI, Sofia University “St. Kliment Ohridski”
+    FMI, Sofia University “St. Kliment Ohridski”
   </a>
 </h2>
 
-## ∫ data → systems ✨
-
+<p align="center">
+  ∫ data → systems ✨
+</p>
 
 </div>
 
