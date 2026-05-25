@@ -62,21 +62,27 @@
 
 <br><br>
 
+
 <div align="center">
 
-# <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>  
+<h2>
+<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">
+𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+</a>
+</h2>
 
-<h1 align="center">
-  <a href="https://www.uni-sofia.bg/index.php/eng" target="_blank">
-    FMI, Sofia University “St. Kliment Ohridski”
-  </a>
-</h1>
+<h2>
+FMI, Sofia University “St. Kliment Ohridski”
+</h2>
 
-# Python • Java • SQL • System Design • Machine Learning
+<h2>
+Python • Java • SQL • System Design • Machine Learning
+</h2>
 
-<h1 align="center">
-  ∫ data → systems ✨
-</h1>
+<h2>
+∫ data → systems ✨
+</h2>
+
 
 </div>
 
