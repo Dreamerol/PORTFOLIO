@@ -216,6 +216,31 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <br>
 
+
+<div align="center" style="max-width:800px; margin:auto; text-align:center;">
+
+<h2>
+Interested in how systems emerge from simplicity — where structure, logic, and constraints turn abstract problems into working systems.
+</h2>
+
+<br>
+
+<h2>
+Outside of coding, there is a focus on calm consistency, disciplined execution, and continuous improvement. The path is Software Engineering, with focus on systems, algorithms, and machine learning.
+</h2>
+
+<br>
+
+<h2>
+Open to Backend • Data • ML opportunities
+</h2>
+
+</div>
+
+
+
+
+
 <div align="center" style="max-width:800px; margin:auto; text-align:center;">
 
 <h2>
