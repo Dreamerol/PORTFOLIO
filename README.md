@@ -76,7 +76,7 @@
 
 <h1>
 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">
-Software Engineer • Backend • Data Systems • Applied ML
+SWE • Backend • Data Systems • Applied ML
 </h1>
 
 
