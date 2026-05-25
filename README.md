@@ -12,7 +12,7 @@
 </h2>
 
 
-<br>
+
 
 <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">
   <img 
