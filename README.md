@@ -242,7 +242,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
-  <em>Key SWE & Data Projects →</em>
+  <em>Core SWE & Data Projects →</em>
  </a>
 </h2>
   
