@@ -87,7 +87,7 @@
 </h2>
 
 <h2>
-∫ data → systems ✨
+∫ data → systems → insights ✨
 </h2>
 
 </div>
