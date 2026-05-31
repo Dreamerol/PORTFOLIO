@@ -124,7 +124,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/7a31ab26e67f27518f7c31e4e48109175c70b08f/nnn.jpg"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/073cdf20da0494e7995650c9b922502545e4292b/!!!_Numericalanalysis.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
 <br>
