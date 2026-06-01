@@ -297,16 +297,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-<br>
-
-
-<div align="center">
-
-## 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026"> 🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦</a> 
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
 
 
 
