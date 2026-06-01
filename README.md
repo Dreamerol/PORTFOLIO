@@ -7,9 +7,9 @@
 </h1>
 
 
-  <h2 align="center">
+  <h1 align="center">
   Backend systems • Data pipelines • Applied ML for scalable applications
-  </h2>
+  </h1>
 
 
 
