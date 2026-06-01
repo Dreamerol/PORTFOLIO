@@ -66,56 +66,9 @@
 
 
 
-<br><br>
-
-
-
-<div align="center">
-
-<div align="center">
-
-<h2>
-<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">
-🟢 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
-</a>
-</h2>
-
-## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
-
-<h2>
-∫ data → systems → insights ✨
-</h2>
-
-</div>
-
-
-
-
-
-  
-<br>
-
-
-<h2 align="center" style="font-size:24px; line-height:1.6;">
-Build systems where data becomes structure, and structure becomes insight.
-</h2>
-
-<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Background in mathematics, algorithms, and software engineering</strong>.  
-Focused on turning theory into working, scalable systems.
-</h2>
-
-<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
-</h2>
-
 
 
 <br>
-
-
-
-
 
 
 
@@ -438,14 +391,6 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
-
-
-
-
-
-
-
-<br>
 
 
 <h2 align="center"> 
