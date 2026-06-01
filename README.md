@@ -65,13 +65,17 @@
 </p>
 
 
+<br>
 
 
 
-<br><br>
+**Backend & Data Engineer** focused on scalable systems and applied ML pipelines.
 
 
 
+
+
+<br>
 
 
 <div align="center">
