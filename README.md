@@ -72,11 +72,11 @@
 
 <div align="center">
 
-<h1>
+<h2>
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
     Backend & Data Engineer focused on scalable systems and applied ML pipelines.
   </a>
-</h1>
+</h2>
 
 </div>
 
