@@ -71,7 +71,7 @@
 
 
 <h2>
-<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">
+<a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
 🟢 **Backend & Data Engineer** focused on scalable systems and applied ML pipelines.
 </a>
 </h2>
