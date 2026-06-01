@@ -221,6 +221,117 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+
+
+
+
+<div align="center">
+
+<table width="100%" cellspacing="0" cellpadding="16">
+
+<tr>
+
+<td width="33%" valign="top" style="padding:16px;">
+
+### 📊 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• Python, TensorFlow, NumPy, Pandas
+
+- Focus: Machine Learning, AI, Neural Networks  
+- Built neural network models for prediction tasks  
+- Applied backpropagation and gradient descent optimization  
+- Designed and evaluated model performance pipelines  
+- Visualized results and analyzed metrics  
+
+</td>
+
+<td width="33%" valign="top" style="padding:16px;">
+
+### 💰 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• Python, Scikit-learn, Pandas
+
+- Focus: Data Analysis, Machine Learning, Predictive Modeling  
+- Built end-to-end financial prediction pipeline  
+- Applied feature engineering and statistical learning  
+- Performed trend analysis and forecasting  
+- Improved model accuracy via tuning  
+
+</td>
+
+<td width="33%" valign="top" style="padding:16px;">
+
+### 💊 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• Python, Pandas, NumPy, Matplotlib
+
+- Focus: Statistics, Experimental Design, Data Analysis  
+- Analyzed real-world placebo effect datasets  
+- Applied statistical modeling and hypothesis testing  
+- Built data visualization and insight pipelines  
+- Performed data cleaning  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top" style="padding:16px;">
+
+### 📦 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• SQL (PostgreSQL)
+
+- Designed normalized relational database schema  
+- Optimized SQL queries for performance (~30% improvement)  
+- Built KPI tracking and reporting workflows  
+
+</td>
+
+<td width="33%" valign="top" style="padding:16px;">
+
+### 🟢 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• Java, Clojure
+
+- Designed modular backend service architecture  
+- Implemented API-driven system integration layer  
+- Applied distributed systems and scalable communication patterns  
+
+</td>
+
+<td width="33%" valign="top" style="padding:16px;">
+
+### 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
+&nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
+
+- Built responsive UI/UX portfolio architecture system  
+- Centralized projects into scalable unified showcase hub  
+- Designed badge-driven navigation and visual branding structure  
+
+
+</td>
+
+</tr>
+
+<!-- EMPTY SPACER ROW -->
+<tr>
+<td colspan="3" style="height:40px;"></td>
+</tr>
+
+
+</table>
+
+</div>
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 ## 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026"> 🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦</a> 
