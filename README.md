@@ -216,7 +216,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br><br>
+<br>
 
 
 
@@ -298,7 +298,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <td width="33%" valign="top" style="padding:16px;">
 
-### 🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a>  
+### 🌐 <a href="https://github.com/Dreamerol/PORTFOLIO-CARDS">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗖𝗔𝗥𝗗𝗦</a>  
 &nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS, JavaScript
 
 - Built responsive UI/UX portfolio architecture system  
