@@ -69,57 +69,6 @@
 <br><br>
 
 
-
-<div align="center">
-
-<div align="center">
-
-<h2>
-<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">
-🟢 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
-</a>
-</h2>
-
-## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
-
-<h2>
-𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
-</h2>
-
-<h2>
-∫ data → systems → insights ✨
-</h2>
-
-</div>
-
-
-
-<br>
-
-  
-<div align="center" style="max-width:800px; margin:auto; text-align:center;">
-
-<h2>
-  
-Interested in how systems emerge from simplicity — where structure, logic and limitations turn abstract problems into working systems.
-
-<br>
-
-Focused on calm consistency, disciplined work and continuous improvement across systems, algorithms and machine learning. Think deeply. Build with intent.
-
-
-</h2>
-
-</div>
-
-
-
-
-<br>
-
-
-
-
 <div align="center">
 
 ## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 𝟮𝟬𝟮𝟲</a>
@@ -232,6 +181,59 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </table>
 
 </div>
+
+
+
+
+
+
+
+<div align="center">
+
+<div align="center">
+
+<h2>
+<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">
+🟢 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
+</a>
+</h2>
+
+## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
+
+<h2>
+𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
+</h2>
+
+<h2>
+∫ data → systems → insights ✨
+</h2>
+
+</div>
+
+
+
+<br>
+
+  
+<div align="center" style="max-width:800px; margin:auto; text-align:center;">
+
+<h2>
+  
+Interested in how systems emerge from simplicity — where structure, logic and limitations turn abstract problems into working systems.
+
+<br>
+
+Focused on calm consistency, disciplined work and continuous improvement across systems, algorithms and machine learning. Think deeply. Build with intent.
+
+
+</h2>
+
+</div>
+
+
+
+
+
 
 
 
