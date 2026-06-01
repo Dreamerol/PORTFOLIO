@@ -76,7 +76,8 @@
 
 <h2>
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    <b>𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟</b><br>
+    <b>𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟</b>
+    <br><br>
     Focused on scalable systems and applied ML pipelines.
   </a>
 </h2>
