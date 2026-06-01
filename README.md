@@ -356,7 +356,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <hr>
 
 
-<h3 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h3>
+<h2 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h2>
 
 
 <br><br><br>
