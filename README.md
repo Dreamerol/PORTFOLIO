@@ -72,10 +72,17 @@
 
 <div align="center"> <h2> ✅ <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank"> <b>𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟</b> <br><br> 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗖++ • 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 </a> </h2>
 
+<h2>
+∫ data → systems → insights ✨
+</h2>
+
 </div>
 
 
-<br>
+
+
+
+<br><br>
 
 
 
@@ -256,14 +263,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 ## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
-<h2>
-∫ data → systems → insights ✨
-</h2>
-
 </div>
-
-
-
 
 
   
