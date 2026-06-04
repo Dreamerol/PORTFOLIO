@@ -88,6 +88,31 @@
 
 
 
+<br>
+
+
+<h2 align="center" style="font-size:24px; line-height:1.6;">
+Build systems where data becomes structure, and structure becomes insight.
+</h2>
+
+<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
+Background in mathematics, algorithms, and software engineering</strong>.  
+Focused on turning theory into working, scalable systems.
+</h2>
+
+<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
+Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
+</h2>
+
+
+
+
+
+<br>
+
+
+
+
 
 
 <br>
@@ -261,46 +286,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <br><br>
 
 
-
-<div align="center">
-
-<div align="center">
-
-<h1>
-<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026" target="_blank">
-𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟
-</a>
-</h1>
-
-## ∫ data → systems → insights ✨
-
-
-</div>
-
-
-  
-<br>
-
-
-<h2 align="center" style="font-size:24px; line-height:1.6;">
-Build systems where data becomes structure, and structure becomes insight.
-</h2>
-
-<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Background in mathematics, algorithms, and software engineering</strong>.  
-Focused on turning theory into working, scalable systems.
-</h2>
-
-<h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
-</h2>
-
-
-
-
-
-
-<br>
 
 
 
