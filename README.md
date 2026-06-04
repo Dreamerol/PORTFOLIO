@@ -96,15 +96,13 @@ Build systems where data becomes structure and structure becomes insight.
 </h2>
 
 <h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Background in mathematics, algorithms and software engineering</strong>.  
-Focused on turning theory into working, scalable systems.
+Background in Mathematics, Algorithms, and Software Engineering.  
+Focused on turning theory into practical, scalable systems.
 </h2>
 
 <h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems and machine learning models.
+Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
 </h2>
-
-
 
 
 
