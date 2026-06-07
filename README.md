@@ -114,6 +114,35 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 
 
+
+<div align="center">
+
+## 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026"> 🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦</a> 
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
+
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
+
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
+    alt="Portfolio Cards"
+    width="100%"/>
+
+</a>
+
+</div>
+
+
+
+<br>
+
 <div align="center">
 
 ## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a>
@@ -229,44 +258,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-
-<br>
-
-
-
-
-<br>
-
-
-
-
-<div align="center">
-
-## 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026"> 🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦</a> 
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
-
-
-<br>
-
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
-
-  <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
-    alt="Portfolio Cards"
-    width="100%"/>
-
-</a>
-
-</div>
 
 
 
