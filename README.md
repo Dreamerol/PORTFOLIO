@@ -1,5 +1,10 @@
 
 
+
+
+
+
+
 <div align="center">
 
 <h1 style="font-size:42px; line-height:1.2;">
@@ -74,7 +79,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">✅ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
+## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">✅ 𝗗𝗔𝗧𝗔 & 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
 
 ## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
@@ -92,17 +97,19 @@
 
 
 <h2 align="center" style="font-size:24px; line-height:1.6;">
-Build systems where data becomes structure and structure becomes insight.
+Build systems where data becomes structure, and structure becomes insight.
 </h2>
 
 <h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
-Background in Mathematics, Algorithms, and Software Engineering.  
-Focused on turning theory into practical, scalable systems.
+Background in mathematics, algorithms, and software engineering</strong>.  
+Focused on turning theory into working, scalable systems.
 </h2>
 
 <h2 align="center" style="font-size:18px; line-height:1.8; font-weight:normal;">
 Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipelines, backend systems, and machine learning models.
 </h2>
+
+
 
 
 
@@ -116,38 +123,12 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <div align="center">
 
-## 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦</a>
-
-## 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗶𝗻𝘂𝘅 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
-
-<br>
-
-<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
-  <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
-    alt="Portfolio Cards"
-    width="100%">
-</a>
-
-</div>
-
-
-<br><br><br>
-
-
-
-<div align="center">
-
 ## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a>
 
 
 ## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱/𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
 
 </div>
-
-
-
-
 
 <br>
 
@@ -261,6 +242,36 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+<br>
+
+
+
+
+
+<div align="center">
+
+## 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦</a>
+
+## 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗶𝗻𝘂𝘅 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
+
+<br>
+
+<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
+    alt="Portfolio Cards"
+    width="100%">
+</a>
+
+</div>
+
+<br><br>
+
+
+
+
+
+
 <h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
   <em>Core SWE & Data Projects →</em>
@@ -364,8 +375,3 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 <br><br><br>
-
-
-
-
-
