@@ -79,7 +79,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">✅ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 • 𝗗𝗮𝘁𝗮 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟</a>
+## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">✅ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
 
 ## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
