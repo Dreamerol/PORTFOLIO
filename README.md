@@ -372,7 +372,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <h3 align="center">⭐ Feel free to explore the projects and give a star if you find them interesting</h3>
 
 
-<br><br>
+<br>
 
 <div align="center">
   <p style="font-size:12px; line-height:1.6; letter-spacing:0.2px;">
