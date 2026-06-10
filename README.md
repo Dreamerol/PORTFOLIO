@@ -359,7 +359,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
 
 <a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
-  <img height="65" src="https://img.shields.io/badge/LMS%20System-00BFFF?style=for-the-badge"/>
+  <img height="65" src="https://img.shields.io/badge/LMS%20System-FF8C00?style=for-the-badge"/>
 </a>
 
 </p>
