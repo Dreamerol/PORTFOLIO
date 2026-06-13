@@ -434,7 +434,10 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
+
+
 ---
+
 
 
 
@@ -445,13 +448,12 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
   <img height="65" src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
 <a href="https://github.com/Dreamerol">
   <img height="65" src="https://img.shields.io/badge/GITHUB-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/PORTFOLIO">
-<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="65" src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
@@ -463,24 +465,22 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 </a>
 
 <a href="https://github.com/Dreamerol/RESUME">
-<img src="https://img.shields.io/badge/RESUME-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img height="65" src="https://img.shields.io/badge/RESUME-9D4EDD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=Dreamerol">
+  <img height="65" src="https://komarev.com/ghpvc/?username=Dreamerol&style=for-the-badge&color=8A2BE2&label=VISITORS"/>
 </a>
 
 </p>
 
 
-</div>
-
-
 
 
 <br>
 <br>
 <br>
 <br>
-
-
-
 
 
 
