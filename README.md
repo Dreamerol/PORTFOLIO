@@ -19,7 +19,7 @@
 
 
 
-<a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">
+<a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO777.jpg"
     width="100%"
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">✅  𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
+## <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅  𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗗𝗔𝗧𝗔 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
 
 ## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
 
@@ -129,7 +129,7 @@ Working with <strong>Python, SQL, Java, and Clojure</strong> to build data pipel
 
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/CARDS-PORTFOLIO-2026">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a>
+## <a href="https://github.com/Dreamerol/CARDFOLIO">🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦</a>
 
 
 ## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱/𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
@@ -254,13 +254,13 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-## 👉 <a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦</a>
+## 👉 <a href="https://github.com/Dreamerol/CARDFOLIO">🧩 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗥𝗘𝗣𝗢𝗦</a>
 
 ## 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗶𝗻𝘂𝘅 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
 
 <br>
 
-<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
+<a href="https://github.com/Dreamerol/CARDFOLIO">
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
     alt="Portfolio Cards"
@@ -282,7 +282,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 <h2 align="center"> 
- 👉 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026"> 
+ 👉 <a href="https://github.com/Dreamerol/PORTFOLIO"> 
   <em>Selected SWE & Data Projects →</em>
  </a>
 </h2>
