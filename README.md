@@ -26,11 +26,12 @@
 <div align="center">
 
   <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PROJECTS.png"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO.png"
     width="100%"
     style="border-radius:18px;" />
 
 </div>
+
 
 
 
