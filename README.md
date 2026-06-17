@@ -21,7 +21,7 @@
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO777.jpg"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_PROJECTS.PNG"
     width="100%"
     style="border-radius:18px;" />
 </a>
