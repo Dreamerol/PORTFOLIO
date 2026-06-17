@@ -62,6 +62,41 @@
 
 
 
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-9D4EDD?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-4F8CFF?style=for-the-badge&logo=java&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Clojure-8A2BE2?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0D9488?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-6C63FF?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-4F8CFF?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-9D4EDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-6C63FF?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Git-4F8CFF?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0F766E?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Math_Modeling-9D4EDD?style=for-the-badge" />
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
@@ -85,34 +120,6 @@
 </p>
 
 
-
-
-
-
-
-
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-9D4EDD?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-4F8CFF?style=for-the-badge&logo=java&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Clojure-8A2BE2?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-9D4EDD?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-6C63FF?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-4F8CFF?style=for-the-badge"/>
-
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-9D4EDD?style=for-the-badge"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-6C63FF?style=for-the-badge"/>
-
-  <img alt="Git" src="https://img.shields.io/badge/Git-4F8CFF?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-8A2BE2?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-9D4EDD?style=for-the-badge"/>
-
-</p>
 
 
 
