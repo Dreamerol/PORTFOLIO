@@ -18,6 +18,8 @@
 
 
 
+<br><br>
+
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
@@ -30,7 +32,8 @@
 
 
 
-<br>
+<br><br>
+
 
 <div align="center" style="white-space:nowrap;">
 
