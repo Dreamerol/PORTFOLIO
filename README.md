@@ -3,7 +3,7 @@
 
 
 
-
+<br>
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 
 
-<br><br>
+<br>
 
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
@@ -32,7 +32,7 @@
 
 
 
-<br><br>
+<br>
 
 
 <div align="center" style="white-space:nowrap;">
