@@ -426,6 +426,26 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+
+
+<br>
+<br><br>
+
+
+
+<div align="center">
+
+<img 
+  src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!!!_VIZITKA.JPG"
+  alt="Vizitka"
+  width="100%"
+/>
+
+</div>
+
+
+
+
 <br><br>
 
 
