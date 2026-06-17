@@ -58,7 +58,6 @@
 
 ---
 
-
 <p align="center">
 
   <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
@@ -82,9 +81,6 @@
   <img src="https://img.shields.io/badge/Math_Modeling-4DA3FF?style=for-the-badge"/>
 
 </p>
-
-
-
 
 
 
