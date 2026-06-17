@@ -62,7 +62,7 @@
 
   <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-7B68EE?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Java-9370DB?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Clojure-9D4EDD?style=for-the-badge&logo=clojure&logoColor=white" />
 
