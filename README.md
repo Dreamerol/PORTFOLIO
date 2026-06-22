@@ -19,17 +19,18 @@
 
 
 
-
 <div align="center">
 
+<a href="https://github.com/Dreamerol">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO.png"
     width="100%"
-    style="border-radius:18px;" />
+    alt="Portfolio Banner"
+    style="border-radius:18px;" 
+  />
+</a>
 
 </div>
-
-
 
 
 <br>
