@@ -387,7 +387,14 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br><br>
+
+
+
+
+
+
+
+<br><br><br>
 
 
 
@@ -395,8 +402,12 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-<a>
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Banner-Data-777.JPG?raw=true" />
+<a href="https://github.com/Dreamerol">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!_BEST.png"
+    alt="Vizitka"
+    width="100%"  
+  />
 </a>
 
 </div>
@@ -407,8 +418,14 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+<br><br><br>
 
-<br><br>
+
+
+
+
+
+
 
 
 
