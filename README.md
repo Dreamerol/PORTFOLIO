@@ -394,26 +394,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br>
 
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_888.PNG"
-    alt="Vizitka"
-    width="100%"  
-  />
-</a>
-
-</div>
-
-
-
-
-<br>
 
 
 
@@ -427,7 +408,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br>
+
 
 
 
@@ -446,7 +427,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br>
+
 
 
 
