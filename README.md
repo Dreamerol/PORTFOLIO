@@ -393,21 +393,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<div align="center">
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Banner_DATA_ML.jpg"
-    width="100%"
-    alt="Mihaela Koseva Banner"
-  />
-</a>
-
-</div>
-
-
-
-
 
 
 
