@@ -402,6 +402,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+![MIHAELA KOSEVA](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_888.PNG)
 
 
 
