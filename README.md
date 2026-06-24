@@ -405,8 +405,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_55.png
-
 
 
 
@@ -425,20 +423,6 @@ https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_55.png
 </div>
 
 
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_888.PNG"
-    width="100%"
-    alt="Mihaela Koseva Banner"
-  />
-</a>
-
-</div>
 
 
 
