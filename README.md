@@ -28,7 +28,7 @@
 
 <a href="https://github.com/Dreamerol">
   <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_3.PNG"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
     width="100%"
     alt="Portfolio Banner"
     style="border-radius:18px;" 
