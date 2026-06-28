@@ -9,7 +9,7 @@
 
 
   <h2 align="center">
-  Backend systems • Data pipelines • Applied ML for scalable applications
+ Backend Engineering • Data Engineering • Applied Machine Learning
   </h2>
 
 
