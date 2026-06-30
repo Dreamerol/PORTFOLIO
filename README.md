@@ -437,7 +437,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <a href="https://github.com/Dreamerol/VIZITKA" target="_blank">
   <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_VIZITKA_22.PNG"
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_VIZITKA_9.png"
     alt="Vizitka"
     width="100%"
   />
