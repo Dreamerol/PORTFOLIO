@@ -467,6 +467,36 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
+
+
+
+
+<div align="center">
+
+<p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
+
+Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
+
+</p>
+
+<p style="font-size:10px; opacity:0.7;">
+🔗 Explore more on GitHub:
+<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
+</p>
+
+</div>
+
+
+<br>
+
+
+
+<br><br>
+
+
+
+
 
 
 <div align="center">
@@ -490,31 +520,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-
-
-
-<h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
-
-
-
-
-<div align="center">
-
-<p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
-
-Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
-
-</p>
-
-<p style="font-size:10px; opacity:0.7;">
-🔗 Explore more on GitHub:
-<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • GitHub • Dreamerol</a>
-</p>
-
-</div>
-
-
-<br>
 
 
 
