@@ -431,7 +431,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br><br>
+<br>
 
 
 
@@ -505,7 +505,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br><br>
+<br><br><br>
 
 
 
@@ -529,7 +529,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br><br>
+<br><br><br>
 
 
 
@@ -549,7 +549,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br><br>
+<br><br><br>
 
 
 
