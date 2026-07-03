@@ -461,22 +461,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br><br>
-
-
-
-
-
-
-
-<h2 align="center"> 
-  ⭐ <a href="https://github.com/Dreamerol/VIZITKA"> 
-  <em> Let's Connect →</em>
- </a>
-</h2>
-
-
-
 
 
 <br><br>
