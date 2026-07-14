@@ -452,7 +452,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <div align="center">
 
 <h1>
-<a href="https://github.com/Dreamerol/AI-DATA-BUILDS">
+<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
   ⚛️  𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗕𝗨𝗜𝗟𝗗𝗦
 </a>
 </h1>
@@ -473,7 +473,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 <div align="center">
-  <a href="https://github.com/Dreamerol/AI-DATA-BUILDS" target="_blank">
+  <a href="https://github.com/Dreamerol" target="_blank">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
       width="100%"
