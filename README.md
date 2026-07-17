@@ -552,7 +552,7 @@ https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%2034
   <a href="https://github.com/Dreamerol" target="_blank">
     <img
       src="
-        https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20345.png"
+        src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20345.png"
       width="100%"
       alt="AI Data Builds"
     />
