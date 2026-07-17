@@ -545,21 +545,15 @@ width="320" height="220">
 
 
 
-
-
-
 <div align="center">
-  <a href="https://github.com/Dreamerol" target="_blank">
+  <a href="https://github.com/Dreamerol">
     <img
       src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
       width="100%"
-      alt="AI Data Builds"
+      alt="Mihaela Koseva | Software Engineer • Data Engineering • Applied ML"
     />
   </a>
 </div>
-
-
-
 
 
 
