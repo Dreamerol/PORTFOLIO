@@ -342,6 +342,29 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+<div align="center">
+
+<a href="https://github.com/Dreamerol">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
+    width="100%"
+    alt="Portfolio Banner"
+    style="border-radius:18px;" 
+  />
+</a>
+
+</div>
+
+
+
+
+
+<br><br><br>
+
+
+
+
+
 <h2 align="center"> 
  👉 <a href="https://github.com/Dreamerol/PORTFOLIO"> 
   <em>Selected SWE & Data Projects →</em>
