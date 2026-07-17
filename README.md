@@ -120,7 +120,9 @@
 
 
 
+
 <br>
+
 
 
 <div align="center">
@@ -135,47 +137,6 @@
 
 
 
-
-
-
-
-
-<br><br><br>
-
-
-
-
-
-
-<div align="center">
-
-## <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
-
-## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
-
-
-</div>
-
-
-
-
-
-<br>
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
-    width="100%"
-    alt="Portfolio Banner"
-    style="border-radius:18px;" 
-  />
-</a>
-
-</div>
 
 
 
@@ -434,6 +395,43 @@ width="320" height="220">
 
 
 
+
+
+<div align="center">
+
+## <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
+
+## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
+
+
+</div>
+
+
+
+
+
+<br>
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
+    width="100%"
+    alt="Portfolio Banner"
+    style="border-radius:18px;" 
+  />
+</a>
+
+</div>
+
+
+
+
+
+<br><br><br>
 
 
 
