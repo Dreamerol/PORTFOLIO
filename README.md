@@ -133,62 +133,6 @@
 
 
 
-<br>
-<br>
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-9D4EDD?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-6C63FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-4F8CFF?style=for-the-badge&logo=java&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Clojure-8A2BE2?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-22C55E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-6C63FF?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-4F8CFF?style=for-the-badge"/>
-
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-9D4EDD?style=for-the-badge"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-6C63FF?style=for-the-badge"/>
-
-  <img alt="Git" src="https://img.shields.io/badge/Git-4F8CFF?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-22C55E?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img alt="Math Modeling" src="https://img.shields.io/badge/Math_Modeling-9D4EDD?style=for-the-badge"/>
-
-</p>
-
-
-
-
-
-</div>
 
 
 
@@ -198,34 +142,13 @@
 
 
 
+
+
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
+## <a href="https://github.com/Dreamerol">🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 ∫ 𝗗𝗔𝗧𝗔 → 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a> 
 
 ## <a href="https://www.uni-sofia.bg" target="_blank"><b>𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</b></a>
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-<br><br>
-
-
-
-
-
-
-<div align="center">
-
-## <a href="https://github.com/Dreamerol">🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 ∫ 𝗗𝗔𝗧𝗔 → 𝗦𝗬𝗦𝗧𝗘𝗠𝗦</a>  
 
 ## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱/𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
 
