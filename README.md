@@ -545,11 +545,6 @@ width="320" height="220">
 
 
 
-https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA%20345.png
-
-
-
-
 
 
 <div align="center">
