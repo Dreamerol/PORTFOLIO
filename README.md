@@ -550,9 +550,9 @@ width="320" height="220">
 <div align="center">
   <a href="https://github.com/Dreamerol" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_11.PNG"
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
       width="100%"
-      alt="AI Data Builds"
+      alt="Mihaela Koseva Banner"
     />
   </a>
 </div>
