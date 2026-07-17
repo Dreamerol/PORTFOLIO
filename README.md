@@ -191,13 +191,18 @@
 
 
 
+
+
+
+
 <div align="center">
 
-## <a href="https://github.com/Dreamerol/PORTFOLIO">🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>
+## <a href="https://github.com/Dreamerol/RESUME">🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
 
 ## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱/𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
 
 </div>
+
 
 
 
@@ -436,191 +441,6 @@ width="320" height="220">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-## <a href="https://github.com/Dreamerol/RESUME">🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
-
-## 𝟭𝟱+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱/𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗦𝗤𝗟 • 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 
-
-</div>
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-<div align="center">
-
-<table>
-
-<!-- ROW 1 -->
-<tr>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZNNNNN777.jpg"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-<br><span style="font-size:24px; font-weight:800;">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</span>
-</td>
-
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Numericalanalysis.jpg"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-<br><span style="font-size:24px; font-weight:800;">𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</span>
-</td>
-
-
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-<br><span style="font-size:24px; font-weight:800;">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</span>
-</td>
-
-</tr>
-
-<!-- ROW 2 -->
-<tr>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MATH4.JPG"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-<br><span style="font-size:24px; font-weight:800;">𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</span>
-</td>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZBOOKS.jpg"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-<br><span style="font-size:24px; font-weight:800;">𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚</span>
-</td>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/math777.jpg"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-<br><span style="font-size:24px; font-weight:800;">𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡</span>
-</td>
-
-</tr>
-
-<!-- ROW 3 -->
-<tr>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZSQL777.JPG"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-<br><span style="font-size:24px; font-weight:800;">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</span>
-</td>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/PLACEBO-EFFECT">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLACEBO777.JPG"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-<br><span style="font-size:24px; font-weight:800;">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧</span>
-</td>
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZEDU33.JPG"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-<br><span style="font-size:24px; font-weight:800;">𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</span>
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-
-
-
-
-
-
-<br><br><br>
-
-
-
-
-
-
-
-<div align="center">
-
-## 👉 <a href="https://github.com/Dreamerol/CARDFOLIO">𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦</a>
-
-## 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 • 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀 & 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 • 𝗢𝗢𝗣 • 𝗦𝗤𝗟 • 𝗟𝗶𝗻𝘂𝘅
-
-</div>
-
-
-
-
-
-<br>
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-  <img
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
-    alt="Portfolio Cards"
-    width="100%">
-</a>
-
-</div>
-
-
-
-
-
-
-
-
-<br><br><br>
 
 
 
