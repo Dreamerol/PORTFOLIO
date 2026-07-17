@@ -451,7 +451,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <h1>
 <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
-  ⚛️  𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗕𝗨𝗜𝗟𝗗𝗦
+  ⚛️  𝗔𝗜 • 𝗗𝗔𝗧𝗔
 </a>
 </h1>
 
