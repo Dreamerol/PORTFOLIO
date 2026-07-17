@@ -132,48 +132,6 @@
 
 
 
-<br>
-
-
-
-<div align="center">
-
-<!-- ================= FEATURED ================= -->
-<table align="center">
-
-<tr>
-
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZNNNNN777.jpg"
-width="320" height="220">
-</a>
-<br><b>𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</b>
-</td>
-
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220">
-</a>
-<br><b>𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</b>
-</td>
-
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLACEBO777.JPG"
-width="320" height="220">
-</a>
-<br><b>𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</b>
-</td>
-
-</tr>
-
-</table>
-
-
-
-
 
 <br>
 <br>
