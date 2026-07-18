@@ -392,6 +392,11 @@ width="320" height="220">
 
 
 
+<br><br><br>
+
+
+
+
 <div align="center">
 
 ## <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
@@ -405,7 +410,7 @@ width="320" height="220">
 
 
 
-<br><br><br>
+<br>
 
 
 
