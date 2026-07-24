@@ -21,21 +21,17 @@
 
 
 
-
-
-
 <div align="center">
 
-<a href="https://github.com/Dreamerol](https://github.com/Dreamerol/CARDFOLIO">
+<a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ai4.jpg"
     width="100%"
-    alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science, Portfolio""
+    alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
   />
 </a>
 
 </div>
-
 
 
 
