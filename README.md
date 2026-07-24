@@ -30,7 +30,7 @@
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ai4.jpg"
     width="100%"
-    alt="Mihaela Koseva Banner"
+    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Applied Machine Learning"
   />
 </a>
 
@@ -512,7 +512,7 @@ width="320" height="220">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
     width="100%"
-    alt="Portfolio Banner"
+    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Applied Machine Learning"
     style="border-radius:18px;" 
   />
 </a>
