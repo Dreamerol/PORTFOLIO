@@ -104,13 +104,14 @@
 <div align="center">
 
 <h1>
-<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
+<a
+  href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY"
+  title="Mihaela Koseva (Михаела Косева) - AI Engineer, Machine Learning, Data Science">
   ⚛️ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
 </a>
 </h1>
 
 </div>
-
 
 
 
