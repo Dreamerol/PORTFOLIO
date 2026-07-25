@@ -568,6 +568,21 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
+<div align="center">
+  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
+      width="100%"
+     alt="Mihaela Koseva (Михаела Косева) - AI Software Engineer, Software Engineering Portfolio, Backend Development, Applied Machine Learning, Data Science, Python, C++, Java, SQL, GitHub Portfolio"
+    />
+  </a>
+</div>
+
+
+
+
+<br><br>
+
 
 
 
