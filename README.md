@@ -7,7 +7,7 @@
 <div align="center">
 
 <h1 style="font-size:42px; line-height:1.2;">
- ⚛️  𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
+ 🌐  𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
 </h1>
 
 
@@ -118,7 +118,7 @@
 <a
   href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY"
   title="Mihaela Koseva (Михаела Косева) - AI Engineer, Machine Learning, Data Science">
-  𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+  ⚛️  𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
 </a>
 </h1>
 
@@ -171,7 +171,7 @@
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol/RESUME" target="_blank">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜/𝗠𝗟</a>
+# <a href="https://github.com/Dreamerol/RESUME" target="_blank">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟</a>
 
 # 𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 & 𝗔𝗜 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
