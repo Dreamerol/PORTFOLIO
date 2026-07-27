@@ -4,19 +4,20 @@
 
 
 
-
-
 <div align="center">
 
 <h1 style="font-size:42px; line-height:1.2;">
-🟢 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 @ 𝗙𝗠𝗜
+⚛️ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗦𝗪𝗘 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
 </h1>
 
 
-  <h2 align="center">
- Backend Engineering • Data Engineering • Applied Machine Learning
-  </h2>
+<h1 align="center">
+  <a href="https://www.uni-sofia.bg" target="_blank">
+    𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”
+  </a>
+</h1>
 
+ 
 
 
 
