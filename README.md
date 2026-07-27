@@ -1,4 +1,8 @@
-
+<h1 align="center" style="font-size:42px; line-height:1.2;">
+  <a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
+    💻 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
+  </a>
+</h1>
 
 
 
