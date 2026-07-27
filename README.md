@@ -1,13 +1,10 @@
 
 
 
-
-
-
 <div align="center">
 
 <h1 style="font-size:42px; line-height:1.2;">
-⚛️ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗦𝗪𝗘 • 𝗗𝗔𝗧𝗔 • 𝗔𝗜 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
+⚛️ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗜 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟
 </h1>
 
 
@@ -161,7 +158,7 @@
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>
+# <a href="https://github.com/Dreamerol/RESUME" target="_blank">✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗦𝗪𝗘 • 𝗗𝗔𝗧𝗔 • 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>
 
 # 𝟯𝟬+ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 & 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 • 𝗣𝘆𝘁𝗵𝗼𝗻 • 𝗦𝗤𝗟 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟
 
