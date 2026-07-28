@@ -427,43 +427,6 @@ width="320" height="220">
 
 
 
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
-    width="100%"
-    loading="lazy"
-    alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
-    style="border-radius:18px;" 
-  />
-</a>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br>
-
-
-
-
-
-
-
-
-
-
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
 
 
@@ -497,6 +460,47 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PORTFOLIO_1.png"
+    width="100%"
+    loading="lazy"
+    alt="Mihaela Koseva, Михаела Косева - AI Engineer, Software Engineer, Applied Machine Learning, Data Science Portfolio"
+    style="border-radius:18px;" 
+  />
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>
+
+
+
+
+
+
+---
+
+
+
+
+
 <div align="center">
   <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
     <img
@@ -514,16 +518,6 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 <br><br><br>
-
-
-
-
-
-
-
-
-
----
 
 
 
