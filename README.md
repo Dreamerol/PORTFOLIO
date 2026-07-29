@@ -72,35 +72,25 @@
 
 
 
-<p align="center">
+<div align="center">
 
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge"/>
-
-</p>
-
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
+    width="100%"
+    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Applied Machine Learning"
+  />
+</a>
 
 </div>
 
 
----
 
 
 
-<br><br><br>
+
+
+<br><br><br><br>
 
 
 
@@ -320,119 +310,6 @@ width="320" height="220">
 
 
 
-<br><br><br>
-
-
-
-
-
-
-
-
-
-
-<h2 align="center"> 
- 👉 <a href="https://github.com/Dreamerol/PORTFOLIO"> 
-  <em>Selected SWE & Data Projects →</em>
- </a>
-</h2>
-  
-
-<br>
-
-
-<p align="center">
-
-<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
-  <img height="65" src="https://img.shields.io/badge/Java%20Calculator-2B2D42?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
-  <img height="65" src="https://img.shields.io/badge/Rummikub%20Game-3A0CA3?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
-  <img height="65" src="https://img.shields.io/badge/Poker%20Game-240046?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/DATABASES-SQL">
-  <img height="65" src="https://img.shields.io/badge/Databases-1D3557?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
-  <img height="65" src="https://img.shields.io/badge/Algorithms-1B4332?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
-  <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-2C2C54?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
-  <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-14213D?style=for-the-badge&logo=atom&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-3C096C?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/Java%20Clojure%20API-2A2D34?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-  <img height="65" src="https://img.shields.io/badge/Book%20Catalog%20Django-1B4332?style=for-the-badge&logo=django&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT">
-  <img height="65" src="https://img.shields.io/badge/Linux%20Toolkit-3F3F46?style=for-the-badge&logo=linux&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
-  <img height="65" src="https://img.shields.io/badge/Profit%20Predictor-4A001F?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED">
-  <img height="65" src="https://img.shields.io/badge/Web%20Systems-1D3557?style=for-the-badge&logo=django&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
-  <img height="65" src="https://img.shields.io/badge/Polynomial%20Calculator-3A0CA3?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
-  <img height="65" src="https://img.shields.io/badge/ML%20Analysis-3C096C?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-  <img height="65" src="https://img.shields.io/badge/SQL%20System-1D3557?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
-  <img height="65" src="https://img.shields.io/badge/OOP%20Design-1B4332?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
-  <img height="65" src="https://img.shields.io/badge/Automata%20Converter-3C096C?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
-  <img height="65" src="https://img.shields.io/badge/LMS%20System-2C2C54?style=for-the-badge"/>
-</a>
-
-</p>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
 
 
 <br><br><br>
@@ -457,9 +334,6 @@ width="320" height="220">
 </a>
 
 </div>
-
-
-
 
 
 
