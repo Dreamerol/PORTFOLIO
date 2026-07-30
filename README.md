@@ -6,12 +6,14 @@
 <div align="center">
 
 <h1 style="font-size:42px; line-height:1.2;">
- 💻 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗠𝗟
+  <a href="https://github.com/Dreamerol/ALLSTATS"
+     title="GitHub • Software Engineer • AI • Data Science • Machine Learning • Portfolio"
+     aria-label="ALLSTATS GitHub Statistics Software Engineering AI Data Science Machine Learning Portfolio">
+    💻 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗠𝗟
+  </a>
 </h1>
 
-
- 
-
+</div>
 
 
 
