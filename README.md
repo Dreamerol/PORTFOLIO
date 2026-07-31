@@ -5,7 +5,7 @@
   <a href="https://github.com/Dreamerol/ALLSTATS"
      title="Mihaela Koseva • Михаела Косева • Software Engineer • AI Engineer • Python Developer • C++ • Java • Data Science • Machine Learning • Portfolio"
      aria-label="Mihaela Koseva, Михаела Косева, Software Engineer, AI Engineer, Python Developer, C++, Java, Data Science, Machine Learning, Portfolio">
-    💻  𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜 • 𝗠𝗟
+    💻  𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗜 • 𝗠𝗟
   </a>
 </h1>
 
@@ -322,10 +322,9 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 </p>
 
 
-
 <p style="font-size:10px; opacity:0.7;">
 🔗 Explore on GitHub:
-<a href="https://github.com/Dreamerol"><a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • Software Engineer • AI • ML • GitHub • Dreamerol</a></a>
+<a href="https://github.com/Dreamerol">Mihaela Koseva (Михаела Косева) • Software Engineer • AI • ML • GitHub • Dreamerol</a>
 </p>
 
 </div>
