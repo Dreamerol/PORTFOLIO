@@ -1,15 +1,16 @@
-
 <div align="center">
 
 <h1 style="font-size:42px; line-height:1.2;">
   <a href="https://github.com/Dreamerol/ALLSTATS"
-     title="Mihaela Koseva • Михаела Косева • Software Engineer • AI Engineer • Python Developer • C++ • Java • Data Science • Machine Learning • Portfolio"
-     aria-label="Mihaela Koseva, Михаела Косева, Software Engineer, AI Engineer, Python Developer, C++, Java, Data Science, Machine Learning, Portfolio">
+     title="Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Software Engineering • AI Engineer • Applied Machine Learning • Data Science • Software Engineer • Backend Engineer • REST APIs • Python • C++ • Java • SQL"
+     aria-label="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL">
     💻  𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗜 & 𝗠𝗟
   </a>
 </h1>
 
 </div>
+
+
 
 
 
@@ -19,10 +20,12 @@
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ai4.jpg"
     width="100%"
-    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL" />
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL" />
 </a>
 
 </div>
+
+
 
 
 
@@ -58,19 +61,16 @@
 
 
 
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
     width="100%"
-    alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Machine Learning, Data Science, Python Developer, Backend Development, C++, Java, SQL" />
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL" />
 </a>
 
 </div>
-
-
 
 
 
