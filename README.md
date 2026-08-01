@@ -210,7 +210,7 @@ width="320" height="220">
 
 # 📊 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 
 
-# ∫ Data → Systems → Insights 
+# ∫ Data → Systems
 
 </div>
 
