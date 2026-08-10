@@ -10,7 +10,7 @@
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA-KOSEVA-PORTFOLIO.png"
     width="100%"
-    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL" />
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет)" />
 </a>
 
 </div>
