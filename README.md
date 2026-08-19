@@ -57,7 +57,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> • 
 🌐 <a href="https://github.com/Dreamerol/PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> • 
 🧩 <a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">𝗥𝗘𝗣𝗢𝗦</a> • 
-📊 <a href="https://github.com/Dreamerol/ALLSTATS"><b>𝗔𝗟𝗟 𝗦𝗧𝗔𝗧𝗦</b></a>
+📊 <a href="https://github.com/Dreamerol/ALLSTATS"><b>𝗔𝗟𝗟𝗦𝗧𝗔𝗧𝗦</b></a>
 </span>
 
 
