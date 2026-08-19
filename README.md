@@ -394,8 +394,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
     width="100%"
     loading="lazy"
     alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia" />
-    style="border-radius:18px;" 
-  />
+ 
 </a>
 
 </div>
