@@ -335,7 +335,11 @@ width="320" height="220">
 
 
 
-<h2 align="center">⭐ Feel free to explore the repos and star any you find interesting</h2>
+
+
+
+
+<h2 align="center">⭐ Feel free to explore the repos and star if you find them interesting</h2>
 
 
 
