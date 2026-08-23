@@ -122,7 +122,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <h2>
 
-<b>Mihaela Koseva (Михаела Косева)</b> • Sofia University (Софийски университет) • СМГ
+<b>Mihaela Koseva (Михаела Косева)</b> • Sofia University (Софийски университет) • SMG (СМГ)
   <br><br>
 
 
