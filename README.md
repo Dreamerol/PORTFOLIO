@@ -123,7 +123,8 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <h2>
 
 <b>Mihaela Koseva (Михаела Косева)</b> • Sofia University (Софийски университет) • SMG (СМГ)
-  <br><br>
+
+  <br>
 
 
 Interested in how systems emerge from simplicity — where structure, logic and limitations turn abstract problems into working systems.
