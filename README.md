@@ -97,7 +97,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol">🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>  
+# 🟢 <a href="https://github.com/Dreamerol">𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 ∫ 𝗗𝗔𝗧𝗔 • 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>  
 
 # <a href="https://www.uni-sofia.bg" target="_blank">𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”</a>
 
@@ -168,7 +168,7 @@ Think deeply. Build with intent.
 
 <div align="center">
 
-# <a href="https://github.com/Dreamerol/RESUME">✅ 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜 & 𝗠𝗟</a>
+# ✅ <a href="https://github.com/Dreamerol/RESUME">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜 & 𝗠𝗟</a>
 
 # 𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 • 𝗔𝗜 • 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
@@ -299,10 +299,10 @@ width="320" height="220">
 <div align="center">
 
 <h1>
-<a
+⚛️ <a
   href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY"
   title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia">
-  ⚛️ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+   𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
 </a>
 </h1>
 
