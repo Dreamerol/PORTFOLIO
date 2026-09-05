@@ -57,6 +57,9 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
+
+
+
 <div align="center">
 
 <table>
@@ -67,6 +70,12 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 <span style="font-size:1.4em;"><a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a></span>
 </td>
 
+<td align="center"><span style="font-size:1.3em;">│</span></td>
+
+<td align="center" width="12%">
+<span style="font-size:1.55em;">🟢</span><br>
+<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a></span>
+</td>
 
 <td align="center"><span style="font-size:1.3em;">│</span></td>
 
@@ -114,6 +123,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 </table>
 
 </div>
+
 
 
 
