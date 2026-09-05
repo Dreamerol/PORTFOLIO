@@ -28,22 +28,6 @@
 
 
 
-<div align="center">
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-
-<img
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH-STACK-mihaela-koseva.png"
-width="100%"
-alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia" />
-
-
-</a>
-
-</div>
-
-
-
 
 <div align="center">
 
@@ -54,6 +38,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 <span style="font-size:1.55em;">🌐</span><br>
 <span style="font-size:1.4em;"><a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a></span>
 </td>
+
 
 <td align="center"><span style="font-size:1.3em;">│</span></td>
 
@@ -101,6 +86,12 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </table>
 
 </div>
+
+
+
+
+
+
 
 
 
