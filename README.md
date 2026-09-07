@@ -295,7 +295,7 @@ width="320" height="220">
 </td>
 
 <td align="center" width="360">
-<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR">
 <b>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</b>
 </a>
 </td>
