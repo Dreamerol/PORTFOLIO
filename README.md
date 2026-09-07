@@ -265,7 +265,7 @@ width="320" height="220">
 </td>
 
 <td align="center" width="360">
-<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLACEBO777.JPG"
 width="320" height="220">
 </a>
