@@ -289,7 +289,7 @@ width="320" height="220">
 
 <tr>
 <td align="center" width="360">
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-FUNCTIONS">
 <b>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</b>
 </a>
 </td>
