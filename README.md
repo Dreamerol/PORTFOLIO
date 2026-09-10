@@ -79,13 +79,12 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
+<td align="center"><span style="font-size:1.3em;">│</span></td>
+
 <td align="center" width="12%">
 <span style="font-size:1.55em;">⚛️</span><br>
 <span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/AI-BUILDS">𝗔𝗜𝗙𝗢𝗟𝗜𝗢</a></span>
 </td>
-
-<td align="center"><span style="font-size:1.3em;">│</span></td>
-
 
 
 
