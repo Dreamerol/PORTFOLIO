@@ -145,7 +145,8 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-<br><br><br><br>
+<br><br><br><br><br>
+
 
 
 
@@ -230,7 +231,7 @@ Think deeply. Build with intent.
 
 <div align="center">
 
-# ✅ <a href="https://github.com/Dreamerol/RESUME">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗪𝗘 ∫ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜 & 𝗠𝗟</a>
+# ✅ <a href="https://github.com/Dreamerol/RESUME">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
 
 # 𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 • 𝗔𝗜 • 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
