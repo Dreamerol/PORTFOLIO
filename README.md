@@ -304,18 +304,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </td>
 
 
-
-
-
-<td align="center" width="360" style="padding:10px;">
-<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZSQL777.JPG"
-width="320" height="220" style="object-fit:cover;border-radius:12px;">
-</a>
-<br><span style="font-size:24px; font-weight:800;">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗬𝗦𝗧𝗘𝗠</span>
-</td>
-
-
 </tr>
 
 </table>
