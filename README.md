@@ -300,6 +300,17 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 </tr>
 
+</table>
+
+
+
+
+
+
+<br>
+
+
+
 
 
 <table align="center">
@@ -344,7 +355,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </td>
 
 </tr>
-
 
 </table>
 
