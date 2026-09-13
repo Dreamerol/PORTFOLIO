@@ -320,8 +320,8 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </td>
 
 <td align="center" width="360">
-<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
-<b>𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚</b>
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML">
+<b>𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧</b>
 </a>
 </td>
 </tr>
