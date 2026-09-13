@@ -276,7 +276,7 @@ Think deeply. Build with intent.
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZEDU33.JPG"
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLATFORM.jpg"
 width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
 <br><span style="font-size:24px; font-weight:800;">𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</span>
