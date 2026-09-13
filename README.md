@@ -587,18 +587,6 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-<br><br><br><br><br>
-
-
-
-
-
-
-
-
-
-
-
 
 <div align="center">
   <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/" target="_blank">
