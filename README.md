@@ -334,14 +334,14 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </td>
 
 <td align="center">
-<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
-<b>𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
+<b>𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</b>
 </a>
 </td>
 
 <td align="center">
-<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM">
-<b>𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</b>
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+<b>𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</b>
 </a>
 </td>
 
