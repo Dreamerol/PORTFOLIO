@@ -412,10 +412,14 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+
+
+
+
 <div align="center">
 
 <h1>
-🧠 <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank" style="text-decoration:none;">𝗡𝗘𝗨𝗥𝗢𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</a>
+👁️ <a href="https://github.com/Dreamerol/COMPUTER-VISION" target="_blank" style="text-decoration:none;">𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗩𝗜𝗦𝗜𝗢𝗡</a>
 </h1>
 
 
@@ -425,8 +429,9 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+
 <br>
-<br>
+
 
 
 
@@ -435,10 +440,12 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank">
-
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_NN3.jpg" width="100%" alt="Neuroscience SNN"/>
-
+<a href="https://github.com/Dreamerol/COMPUTER-VISION">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-COMPUTER%20VISION.png"
+    width="100%"
+    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia "
+  />
 </a>
 
 </div>
@@ -455,9 +462,12 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-
-
 <br><br><br><br><br><br>
+
+
+
+
+
 
 
 
@@ -533,7 +543,13 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-<br><br><br><br><br>
+
+<br><br><br><br><br><br>
+
+
+
+
+
 
 
 
@@ -547,7 +563,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 <div align="center">
 
 <h1>
-👁️ <a href="https://github.com/Dreamerol/COMPUTER-VISION" target="_blank" style="text-decoration:none;">𝗖𝗢𝗠𝗣𝗨𝗧𝗘𝗥 𝗩𝗜𝗦𝗜𝗢𝗡</a>
+🧠 <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank" style="text-decoration:none;">𝗡𝗘𝗨𝗥𝗢𝗦𝗖𝗜𝗘𝗡𝗖𝗘 • 𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</a>
 </h1>
 
 
@@ -557,9 +573,8 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-
 <br>
-
+<br>
 
 
 
@@ -568,12 +583,10 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/COMPUTER-VISION">
-  <img 
-    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-COMPUTER%20VISION.png"
-    width="100%"
-    alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Sofia "
-  />
+<a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY" target="_blank">
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA_NN3.jpg" width="100%" alt="Neuroscience SNN"/>
+
 </a>
 
 </div>
@@ -589,7 +602,11 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
+
+
+
 <br><br><br><br><br><br>
+
 
 
 
