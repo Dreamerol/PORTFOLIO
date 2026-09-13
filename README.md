@@ -316,25 +316,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <table align="center">
 
-<tr>
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS">
-<b>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</b>
-</a>
-</td>
 
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR">
-<b>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</b>
-</a>
-</td>
-
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML">
-<b>𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧</b>
-</a>
-</td>
-</tr>
 
 <tr>
 <td align="center">
@@ -355,7 +337,28 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
 </td>
 
+
+
+<tr>
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS">
+<b>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR">
+<b>𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</b>
+</a>
+</td>
+
+<td align="center" width="360">
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML">
+<b>𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧</b>
+</a>
+</td>
 </tr>
+
 
 </table>
 
