@@ -87,7 +87,6 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 </td>
 
 
-
 <td align="center"><span style="font-size:1.3em;">│</span></td>
 
 <td align="center" width="12%">
@@ -132,6 +131,9 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 </tr>
 </table>
+
+
+
 
 </div>
 
@@ -264,10 +266,11 @@ Think deeply. Build with intent.
 
 <div align="center">
 
+
+
 <!-- ================= FEATURED ================= -->
 <table align="center">
 
-<tr>
 
 <tr>
 
@@ -342,7 +345,9 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 </tr>
 
+
 </table>
+
 
 </div>
 
