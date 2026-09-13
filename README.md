@@ -262,6 +262,108 @@ Think deeply. Build with intent.
 
 
 
+
+
+
+
+
+<!-- ROW 2 -->
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MATH4.JPG"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZBOOKS.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/math777.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡</span>
+</td>
+
+</tr>
+
+<!-- ROW 3 -->
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZSQL777.JPG"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZBOOKS.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚</span>
+</td>ont-size:24px; font-weight:800;">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZEDU33.JPG"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</span>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <!-- ================= FEATURED ================= -->
@@ -269,40 +371,34 @@ Think deeply. Build with intent.
 
 <tr>
 
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZNNNNN777.jpg"
-width="320" height="220">
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZSQL777.JPG"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><b>𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</b>
+<br><span style="font-size:24px; font-weight:800;">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</span>
 </td>
 
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
-width="320" height="220">
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZBOOKS.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><b>𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</b>
+<br><span style="font-size:24px; font-weight:800;">𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚</span>
+</td>ont-size:24px; font-weight:800;">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧</span>
 </td>
 
-<td align="center" width="360">
-<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML">
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLACEBO777.JPG"
-width="320" height="220">
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZEDU33.JPG"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
-<br><b>𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</b>
+<br><span style="font-size:24px; font-weight:800;">𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</span>
 </td>
 
 </tr>
-
-</table>
-
-
-
-
-<br>
-
-
 
 
 
