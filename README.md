@@ -239,7 +239,7 @@ Think deeply. Build with intent.
 
 <div align="center">
 
-# ✅ <a href="https://github.com/Dreamerol/RESUME">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 & 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥</a>
+# ✅ <a href="https://github.com/Dreamerol/RESUME">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 & 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗔𝗜/𝗠𝗟</a>
 
 # 𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 • 𝗗𝗮𝘁𝗮 • 𝗔𝗜 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
