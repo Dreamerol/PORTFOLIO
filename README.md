@@ -355,6 +355,17 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/mihaela%20koseva%20-%20django.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚</span>
+</td>
+
+
+
+
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
