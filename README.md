@@ -156,9 +156,7 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-
-<br><br><br><br><br>
-
+<br><br><br><br>
 
 
 
@@ -228,9 +226,8 @@ Think deeply. Build with intent.
 
 
 
+<br><br><br><br>
 
-
-<br><br><br><br><br>
 
 
 
@@ -458,7 +455,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 
 
@@ -523,7 +520,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 
 
@@ -579,10 +576,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-
-
-
-<br><br><br><br><br>
+<br><br><br><br>
 
 
 
@@ -618,10 +612,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-
-
-
-<br><br><br><br><br>
+<br><br><br><br>
 
 
 
@@ -658,7 +649,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 
 
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 
 
