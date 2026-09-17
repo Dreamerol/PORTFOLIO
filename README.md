@@ -73,97 +73,6 @@ alt="Mihaela Koseva (Михаела Косева) • Sofia University (Софи
 
 
 
-<div align="center">
-
-
-
-<table>
-<tr>
-
-<td align="center" width="12%">
-<span style="font-size:1.55em;">🌐</span><br>
-<span style="font-size:1.4em;"><a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">𝗪𝗘𝗕𝗦𝗜𝗧𝗘</a></span>
-</td>
-
-
-<td align="center"><span style="font-size:1.3em;">│</span></td>
-
-<td align="center" width="12%">
-<span style="font-size:1.55em;">⚛️</span><br>
-<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/AI-STUDIO">𝗔𝗜𝗦𝗧𝗨𝗗𝗜𝗢</a></span>
-</td>
-
-
-<td align="center"><span style="font-size:1.3em;">│</span></td>
-
-<td align="center" width="12%">
-<span style="font-size:1.55em;">🟢</span><br>
-<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a></span>
-</td>
-
-<td align="center"><span style="font-size:1.3em;">│</span></td>
-
-<td align="center" width="12%">
-<span style="font-size:1.55em;">🧩</span><br>
-<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/CARDFOLIO">𝗥𝗘𝗣𝗢𝗦</a></span>
-</td>
-
-<td align="center"><span style="font-size:1.3em;">│</span></td>
-
-<td align="center" width="12%">
-<span style="font-size:1.55em;">📊</span><br>
-<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/ALLSTATS">𝗦𝗧𝗔𝗧𝗦</a></span>
-</td>
-
-<td align="center"><span style="font-size:1.3em;">│</span></td>
-
-<td align="center" width="12%">
-<span style="font-size:1.55em;">✅</span><br>
-<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/RESUME">𝗥𝗘𝗦𝗨𝗠𝗘</a></span>
-</td>
-
-<td align="center"><span style="font-size:1.3em;">│</span></td>
-
-<td align="center" width="12%">
-<span style="font-size:1.55em;">🔗</span><br>
-<span style="font-size:1.4em;"><a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a></span>
-</td>
-
-<td align="center"><span style="font-size:1.3em;">│</span></td>
-
-<td align="center" width="12%">
-<span style="font-size:1.55em;">✉️</span><br>
-<span style="font-size:1.4em;"><a href="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_VIZITKA.jpg">𝗖𝗢𝗡𝗧𝗔𝗖𝗧</a></span>
-</td>
-
-</tr>
-</table>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div align="center">
@@ -410,6 +319,137 @@ Think deeply. Build with intent.
 
 
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<table>
+
+<!-- ROW 1 -->
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZNNNNN777.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</span>
+</td>
+
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Numericalanalysis.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</span>
+</td>
+
+
+
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZZZZZZZZPROFIT7777.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥</span>
+</td>
+
+</tr>
+
+
+<!-- ROW 2 -->
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MATH4.JPG"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗣𝗢𝗟𝗬𝗡𝗢𝗠𝗜𝗔𝗟 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZBOOKS.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/math777.jpg"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗣𝗛𝗬𝗦𝗜𝗖𝗦 𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡</span>
+</td>
+
+</tr>
+
+<!-- ROW 3 -->
+<tr>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZSQL777.JPG"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/PLACEBO777.JPG"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧</span>
+</td>
+
+<td align="center" width="360" style="padding:10px;">
+<a href="https://github.com/Dreamerol/MOODLE-LMS-PLATFORM">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/ZZZZZEDU33.JPG"
+width="320" height="220" style="object-fit:cover;border-radius:12px;">
+</a>
+<br><span style="font-size:24px; font-weight:800;">𝗟𝗠𝗦 𝗣𝗟𝗔𝗧𝗙𝗢𝗥𝗠</span>
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
