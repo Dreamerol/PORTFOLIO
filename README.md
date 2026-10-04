@@ -349,6 +349,7 @@ Think deeply. Build with intent.
 <table>
 
 <!-- ROW 1 -->
+
 <tr>
 
 <td align="center" width="360" style="padding:10px;">
@@ -359,7 +360,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 <br><span style="font-size:24px; font-weight:800;">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</span>
 </td>
 
-
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS">
 <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_Numericalanalysis.jpg"
@@ -367,9 +367,6 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </a>
 <br><span style="font-size:24px; font-weight:800;">𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦</span>
 </td>
-
-
-
 
 <td align="center" width="360" style="padding:10px;">
 <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR">
@@ -381,8 +378,14 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 </tr>
 
+<!-- EMPTY ROW -->
+
+<tr>
+<td colspan="3" height="25"></td>
+</tr>
 
 <!-- ROW 2 -->
+
 <tr>
 
 <td align="center" width="360" style="padding:10px;">
@@ -411,7 +414,14 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 </tr>
 
+<!-- EMPTY ROW -->
+
+<tr>
+<td colspan="3" height="25"></td>
+</tr>
+
 <!-- ROW 3 -->
+
 <tr>
 
 <td align="center" width="360" style="padding:10px;">
@@ -443,6 +453,13 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 </table>
 
 </div>
+
+
+
+
+
+
+
 
 
 
